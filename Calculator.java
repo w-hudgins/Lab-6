@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 
 
-//Worked with Jack
+//This file has been publicly added to GitHub
 
 public class Calculator {
 	
